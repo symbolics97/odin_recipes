@@ -1,0 +1,16 @@
+.img {
+    height: auto;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head {
+    background-color: mediumturquoise;
+    text-align: center;
+}
+
+.desc{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
